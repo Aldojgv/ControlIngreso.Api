@@ -19,6 +19,7 @@ namespace ControlIngresoApp.API
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
 
 
+
         }
 
         [HttpGet("{codParametro}")]
