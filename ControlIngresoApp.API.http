@@ -1,0 +1,6 @@
+# @ControlIngresoApp.API_HostAddress = http://localhost:5164
+
+# GET {{ControlIngresoApp_API_HostAddress}}/Parametro/paises
+# Accept: application/json
+
+# ###

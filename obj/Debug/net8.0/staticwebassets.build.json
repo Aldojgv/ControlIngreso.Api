@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FnvzgOVAuVN+tZP99pBwalPvFZbkWekiGzm1bSHtJF0=",
+  "Source": "ControlIngresoApp.API",
+  "BasePath": "_content/ControlIngresoApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
