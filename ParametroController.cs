@@ -18,6 +18,7 @@ namespace ControlIngresoApp.API
             _parametroRepository = parametroRepository ?? throw new ArgumentNullException(nameof(parametroRepository));
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
 
+
         }
 
         [HttpGet("{codParametro}")]
