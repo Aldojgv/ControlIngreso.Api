@@ -9,23 +9,30 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.17" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
     <PackageReference Include="Npgsql" Version="9.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
- <ItemGroup>
+  <ItemGroup>
   <Reference Include="ControlIngresoApp.Model">
-    <HintPath>dll/ControlIngresoApp.Model.dll</HintPath>
+    <HintPath>lib/ControlIngresoApp.Model.dll</HintPath>
   </Reference>
   <Reference Include="ControlIngresoApp.Interfaces">
-    <HintPath>dll/ControlIngresoApp.Interfaces.dll</HintPath>
+    <HintPath>lib/ControlIngresoApp.Interfaces.dll</HintPath>
   </Reference>
   <Reference Include="ControlIngresoApp.Repository">
-    <HintPath>dll/ControlIngresoApp.Repository.dll</HintPath>
+    <HintPath>lib/ControlIngresoApp.Repository.dll</HintPath>
   </Reference>
   <Reference Include="ControlIngresoApp.Shared">
-    <HintPath>dll/ControlIngresoApp.Shared.dll</HintPath>
+    <HintPath>lib/ControlIngresoApp.Shared.dll</HintPath>
   </Reference>
 </ItemGroup>
+<!-- 
+  <ItemGroup>
+    <ProjectReference Include="..\ControlIngresoApp.Interfaces\ControlIngresoApp.Interfaces.csproj" />
+    <ProjectReference Include="..\ControlIngresoApp.Repository\ControlIngresoApp.Repository.csproj" />
+    <ProjectReference Include="..\ControlIngresoApp.Shared\ControlIngresoApp.Shared.csproj" />
+  </ItemGroup> -->
 
 </Project>
