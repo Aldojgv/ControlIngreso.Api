@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.API\\ControlIngresoApp.API.csproj": {}
+    "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\ControlIngresoApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.API\\ControlIngresoApp.API.csproj": {
+    "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\ControlIngresoApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.API\\ControlIngresoApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\ControlIngresoApp.API.csproj",
         "projectName": "ControlIngresoApp.API",
-        "projectPath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.API\\ControlIngresoApp.API.csproj",
+        "projectPath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\ControlIngresoApp.API.csproj",
         "packagesPath": "C:\\Users\\Xicog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.API\\obj\\",
+        "outputPath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

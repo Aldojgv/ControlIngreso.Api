@@ -132,7 +132,3 @@ C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\ne
 C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\Npgsql.dll
 C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\obj\Debug\net8.0\ControlIngresoApp.API.sourcelink.json
 C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\Dapper.dll
-C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\ControlIngresoApp.Interfaces.pdb
-C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\ControlIngresoApp.Repository.pdb
-C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\ControlIngresoApp.Shared.pdb
-C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\ControlIngresoApp.Model.pdb

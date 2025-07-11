@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7UNsN3WZbQ=",
+  "dgSpecHash": "f/B4xqIt2ZQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.API\\ControlIngresoApp.API.csproj",
+  "projectFilePath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\ControlIngresoApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xicog\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\Xicog\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.17\\microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
