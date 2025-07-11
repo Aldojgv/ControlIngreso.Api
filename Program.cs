@@ -29,14 +29,15 @@ options.AddPolicy("PermitirTodo", policy =>
         .AllowAnyMethod();
 });
 });
-
+ app.UseCors("PermitirTodo");
 builder.Services.AddControllers();
 var app = builder.Build();
 app.UseRouting();
-app.UseCors("PermitirTodo");
+
 // Middleware y entorno
 if (app.Environment.IsDevelopment())
 {
+   
     app.UseSwagger();
     app.UseSwaggerUI();
     //app.UseHttpsRedirection();
