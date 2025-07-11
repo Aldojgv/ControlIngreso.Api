@@ -29,9 +29,10 @@ options.AddPolicy("PermitirTodo", policy =>
         .AllowAnyMethod();
 });
 });
- app.UseCors("PermitirTodo");
+
 builder.Services.AddControllers();
 var app = builder.Build();
+ app.UseCors("PermitirTodo");
 app.UseRouting();
 
 // Middleware y entorno

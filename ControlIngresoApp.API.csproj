@@ -13,10 +13,19 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ControlIngresoApp.Interfaces\ControlIngresoApp.Interfaces.csproj" />
-    <ProjectReference Include="..\ControlIngresoApp.Repository\ControlIngresoApp.Repository.csproj" />
-    <ProjectReference Include="..\ControlIngresoApp.Shared\ControlIngresoApp.Shared.csproj" />
-  </ItemGroup>
+ <ItemGroup>
+  <Reference Include="ControlIngresoApp.Model">
+    <HintPath>dll/ControlIngresoApp.Model.dll</HintPath>
+  </Reference>
+  <Reference Include="ControlIngresoApp.Interfaces">
+    <HintPath>dll/ControlIngresoApp.Interfaces.dll</HintPath>
+  </Reference>
+  <Reference Include="ControlIngresoApp.Repository">
+    <HintPath>dll/ControlIngresoApp.Repository.dll</HintPath>
+  </Reference>
+  <Reference Include="ControlIngresoApp.Shared">
+    <HintPath>dll/ControlIngresoApp.Shared.dll</HintPath>
+  </Reference>
+</ItemGroup>
 
 </Project>
