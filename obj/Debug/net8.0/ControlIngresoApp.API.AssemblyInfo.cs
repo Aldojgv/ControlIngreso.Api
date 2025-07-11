@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlIngresoApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa53fe5402f2f3db5f02ab31cbe1bb99f4f4c26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc15156394da4276cb7b091076e5b7be97e91570")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlIngresoApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlIngresoApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
