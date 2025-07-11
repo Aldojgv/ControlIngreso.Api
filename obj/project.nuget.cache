@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LWLSgFo9PnM=",
+  "dgSpecHash": "QLFnjsWNjS0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Xicog\\Source\\Repos\\IngresoControlApp\\ControlIngresoApp.Api\\ControlIngresoApp.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Xicog\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Xicog\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Xicog\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.17\\microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
     "C:\\Users\\Xicog\\.nuget\\packages\\microsoft.data.sqlite\\9.0.6\\microsoft.data.sqlite.9.0.6.nupkg.sha512",
     "C:\\Users\\Xicog\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.6\\microsoft.data.sqlite.core.9.0.6.nupkg.sha512",
