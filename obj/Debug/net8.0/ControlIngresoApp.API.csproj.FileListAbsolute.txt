@@ -134,3 +134,7 @@ C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\obj\Debug\ne
 C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\obj\Debug\net8.0\ControlIngresoApp.API.pdb
 C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\obj\Debug\net8.0\ControlIngresoApp.API.genruntimeconfig.cache
 C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\obj\Debug\net8.0\ref\ControlIngresoApp.API.dll
+C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Xicog\Source\Repos\IngresoControlApp\ControlIngresoApp.Api\obj\Debug\net8.0\ControlIngresoApp.API.sourcelink.json
